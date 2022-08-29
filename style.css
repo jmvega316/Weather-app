@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+    font-style: normal;
+    font-size: xx-large;
+    border: 5px;
+    border-style: solid;
+    
+}
+
+.searchbox{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 5px;
+}
+
+.location{
+
+}
