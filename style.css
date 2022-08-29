@@ -1,9 +1,10 @@
 header{
     text-align: center;
     font-style: normal;
-    font-size: xx-large;
+    font-size: 40px;
     border: 5px;
     border-style: solid;
+
     
 }
 
@@ -13,7 +14,10 @@ header{
     border-style: solid;
     margin-top: 5px;
 }
+.active{
+    font-size: 40px;
+}
 
-.location{
-
+#location-container{
+    font-size: 40px;
 }
